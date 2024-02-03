@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D0BC511-21CA-4B8B-856F-485E6A041470"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B5F5C3F-9CA7-4C41-B6D6-7AC357AF63EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51888D19-E805-4D5A-A108-8BDCDA9141F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47B18486-D4E8-444E-B9C8-C24AE685236F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "47B18486-D4E8-444E-B9C8-C24AE685236F - 576f8b264b21d5a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "47B18486-D4E8-444E-B9C8-C24AE685236F - 432f96cb42869770"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A76E150-F376-41E6-9E4D-7CE8DF6E47AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2A76E150-F376-41E6-9E4D-7CE8DF6E47AF - 38fde4186680b187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (CometChatSDK.CometChatException) -&gt; () in closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2A76E150-F376-41E6-9E4D-7CE8DF6E47AF - 432f96cb42869770"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "263DDCEE-F255-4B4D-8222-632DF26B6FDE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "263DDCEE-F255-4B4D-8222-632DF26B6FDE - 432f96cb428696e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "263DDCEE-F255-4B4D-8222-632DF26B6FDE - 576f8b264b21d5a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "263DDCEE-F255-4B4D-8222-632DF26B6FDE - 432f96cb42869770"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17D647E6-A4D8-401D-BB87-69FBCED93EE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "17D647E6-A4D8-401D-BB87-69FBCED93EE5 - 432f96cb428696a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "17D647E6-A4D8-401D-BB87-69FBCED93EE5 - 432f96cb42869770"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ChatTestapp.ContentView.body.getter : some"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A828004C-29A7-4491-B24D-A0A2662D6143"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "preparerootcontroller()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A828004C-29A7-4491-B24D-A0A2662D6143 - 39470a21d3cc632f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "A828004C-29A7-4491-B24D-A0A2662D6143 - c1c0f2ea1b8e16a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A828004C-29A7-4491-B24D-A0A2662D6143 - 39470a21d3cc632f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "A828004C-29A7-4491-B24D-A0A2662D6143 - c1c0f2ea1b8e16a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8263823C-7B24-4C1B-B947-63734FD0441D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "preparerootcontroller()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8263823C-7B24-4C1B-B947-63734FD0441D - 39470a21d3cc632f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "8263823C-7B24-4C1B-B947-63734FD0441D - c1c0f2ea1b8e16a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB78221E-1C3B-42F7-B3E5-DBC10245789C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "preparerootcontroller()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB78221E-1C3B-42F7-B3E5-DBC10245789C - 39470a21d3cc63e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "CB78221E-1C3B-42F7-B3E5-DBC10245789C - 39470a21d3cc63e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "335520D5-8DB8-4CE2-A7E8-0424F41E5AA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "preparerootcontroller()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "335520D5-8DB8-4CE2-A7E8-0424F41E5AA5 - 39470a21d3cc6e36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "335520D5-8DB8-4CE2-A7E8-0424F41E5AA5 - 39470a21d3cc6e36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B756B96F-412F-427C-9CE2-A1CF8A4AE790"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatpageController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B756B96F-412F-427C-9CE2-A1CF8A4AE790 - ba65ef0913b3926d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.ChatpageController.viewDidLoad() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatpageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "B756B96F-412F-427C-9CE2-A1CF8A4AE790 - ba65ef0913b39223"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.ChatpageController.viewDidLoad() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatpageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "B756B96F-412F-427C-9CE2-A1CF8A4AE790 - ba65ef0913b39223"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.ChatpageController.viewDidLoad() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatpageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7123F21B-CA20-4387-A5C3-842581FCD467"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getUserConversation(userId:comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7123F21B-CA20-4387-A5C3-842581FCD467 - d2f1e3277a80639f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "7123F21B-CA20-4387-A5C3-842581FCD467 - d2f1e3277a80639f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "7123F21B-CA20-4387-A5C3-842581FCD467 - d2f1e3277a8063be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DD85452-4CCD-4A48-8040-585AFF90D120"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getUserConversation(userId:comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DD85452-4CCD-4A48-8040-585AFF90D120 - 29462f81c5858615"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1316">
+               </Location>
+               <Location
+                  uuid = "0DD85452-4CCD-4A48-8040-585AFF90D120 - d2f1e3277a8063c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "0DD85452-4CCD-4A48-8040-585AFF90D120 - 29462f81c5858634"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26B06C48-4957-44C0-A8DC-98A80187D4D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getUserConversation(userId:comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26B06C48-4957-44C0-A8DC-98A80187D4D7 - d2f1e3277a806cb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1348">
+               </Location>
+               <Location
+                  uuid = "26B06C48-4957-44C0-A8DC-98A80187D4D7 - 32c27b2f8d697b0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ChatTestapp.ConversationData) -&gt; Swift.Bool in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "26B06C48-4957-44C0-A8DC-98A80187D4D7 - d2f1e3277a806cd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "235A130F-4D20-41ED-9345-29FA2B9F90A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getUserConversation(userId:comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "235A130F-4D20-41ED-9345-29FA2B9F90A8 - d2f1e3277a806cf8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "235A130F-4D20-41ED-9345-29FA2B9F90A8 - d2f1e3277a80633a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getUserConversation(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87594D04-4402-4A4A-8FDC-9856A1D882E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getChatmessages(conversId:comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87594D04-4402-4A4A-8FDC-9856A1D882E9 - dfe5bfc1989178e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getChatmessages(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "87594D04-4402-4A4A-8FDC-9856A1D882E9 - 1dfd8622edc24576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getChatmessages(conversId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  uuid = "87594D04-4402-4A4A-8FDC-9856A1D882E9 - 1dfd8622edc24576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getChatmessages(conversId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59CC7AD0-1B26-4277-B9CD-122AAA698A2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "getChatmessages(conversId:comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "59CC7AD0-1B26-4277-B9CD-122AAA698A2E - dfe5bfc198917f69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getChatmessages(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "59CC7AD0-1B26-4277-B9CD-122AAA698A2E - 1dfd8622edc242d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getChatmessages(conversId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "59CC7AD0-1B26-4277-B9CD-122AAA698A2E - 1dfd8622edc242d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.getChatmessages(conversId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F10BC919-E24A-4291-B8C9-98DED0864029"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/MessagePageController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "onTextMessageReceived(textMessage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 47473ef5560ac3d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 2a8275f55ef91877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 91490c3de19eae55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 47473ef5560ac317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 91490c3de19eae74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 47473ef5560ac336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 91490c3de19eadd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 91490c3de19eae97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "F10BC919-E24A-4291-B8C9-98DED0864029 - 47473ef5560ac351"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/MessagePageController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "onTextMessageReceived(textMessage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795 - 2a8275f55ef91894"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795 - 47473ef5560ac317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795 - 2a8275f55ef918b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795 - 47473ef5560ac370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795 - 2a8275f55ef91b10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795 - 91490c3de19eadd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795 - 47473ef5560ac093"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "7977B39A-B491-43DF-AB4E-2D4286B58795 - 2a8275f55ef91b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in ChatTestapp.MessagePageController.onTextMessageReceived(textMessage: CometChatSDK.TextMessage) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B576921-0329-4F79-942D-CE22AAE9AFF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "sendmessage(body:userId:comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B576921-0329-4F79-942D-CE22AAE9AFF4 - a2b984f7bfeca1f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.sendmessage(body: Swift.Dictionary&lt;Swift.String, Any&gt;, userId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "9B576921-0329-4F79-942D-CE22AAE9AFF4 - a2b984f7bfecbebf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.sendmessage(body: Swift.Dictionary&lt;Swift.String, Any&gt;, userId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA81AFD2-E26C-422D-9439-A6E815A187B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/ChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "sendmessage(body:userId:comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA81AFD2-E26C-422D-9439-A6E815A187B8 - 2e2d2510eba1ab73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.ChatViewModel.sendmessage(body: Swift.Dictionary&lt;Swift.String, Any&gt;, userId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "2312">
+               </Location>
+               <Location
+                  uuid = "BA81AFD2-E26C-422D-9439-A6E815A187B8 - a2b984f7bfeca1b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.sendmessage(body: Swift.Dictionary&lt;Swift.String, Any&gt;, userId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "BA81AFD2-E26C-422D-9439-A6E815A187B8 - a2b984f7bfeca196"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatTestapp.ChatViewModel.sendmessage(body: Swift.Dictionary&lt;Swift.String, Any&gt;, userId: Swift.String, comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/ChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9919439-6054-4ADA-9766-1C019B7769AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/MessagePageController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "sendact(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9919439-6054-4ADA-9766-1C019B7769AF - 3775af7f4db27d38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "B9919439-6054-4ADA-9766-1C019B7769AF - cd97072358d70405"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "B9919439-6054-4ADA-9766-1C019B7769AF - 58f65062435553ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; () in ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D025D8C1-1023-4AFA-8D59-7DBADCA04FA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/MessagePageController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "sendact(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D025D8C1-1023-4AFA-8D59-7DBADCA04FA5 - 6f471bb427924c6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "D025D8C1-1023-4AFA-8D59-7DBADCA04FA5 - 3775af7f4db27d38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "D025D8C1-1023-4AFA-8D59-7DBADCA04FA5 - cd97072358d70405"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "D025D8C1-1023-4AFA-8D59-7DBADCA04FA5 - 6f471bb427924c0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+               <Location
+                  uuid = "D025D8C1-1023-4AFA-8D59-7DBADCA04FA5 - 3775af7f4db27cd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "D025D8C1-1023-4AFA-8D59-7DBADCA04FA5 - 6f471bb427924c2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA5A260E-887B-41D3-882D-187BA2B88D91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/MessagePageController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "sendact(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA5A260E-887B-41D3-882D-187BA2B88D91 - 6f471bb427924ca8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "CA5A260E-887B-41D3-882D-187BA2B88D91 - 6f471bb427924ca8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "CA5A260E-887B-41D3-882D-187BA2B88D91 - 6f471bb427924ca8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.MessagePageController.sendact(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/MessagePageController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79A85517-DB53-45E5-B635-DDBA8708888D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/LoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loginaction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79A85517-DB53-45E5-B635-DDBA8708888D - 33767c3f3dd9e197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in ChatTestapp.LoginController.loginaction(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/LoginController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "79A85517-DB53-45E5-B635-DDBA8708888D - 33767c3f3dd9e197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in ChatTestapp.LoginController.loginaction(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/LoginController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F76CDBC5-D3C1-41F3-BE3D-0204F85870A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/LoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "loginaction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C364525-D28F-4C11-B819-1C401D0259B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/LoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loginaction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C364525-D28F-4C11-B819-1C401D0259B6 - 6e2e3b08a5dc3111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.LoginController.loginaction(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/LoginController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "8C364525-D28F-4C11-B819-1C401D0259B6 - 33767c3f3dd9e197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in ChatTestapp.LoginController.loginaction(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/LoginController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "8C364525-D28F-4C11-B819-1C401D0259B6 - 33767c3f3dd9e197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CometChatSDK.User) -&gt; () in ChatTestapp.LoginController.loginaction(Any) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/LoginController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BF40ADF-F358-4665-B722-19027DD8F5FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "preparerootcontroller()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8BF40ADF-F358-4665-B722-19027DD8F5FB - 8f645da6232ca1c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.preparerootcontroller() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "8BF40ADF-F358-4665-B722-19027DD8F5FB - 8f645da6232ca1c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.preparerootcontroller() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B5168D0-9CCB-4BD0-945E-34DF7D98532E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "preparerootcontroller()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B5168D0-9CCB-4BD0-945E-34DF7D98532E - 39470a21d3cc6e9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.loginUser() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "3B5168D0-9CCB-4BD0-945E-34DF7D98532E - 8f645da6232ca0da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.SceneDelegate.preparerootcontroller() -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "668">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6926E51B-B3FC-458B-A51B-9CBC05BE0603"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/Controller/LoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "keyboardWillShow(notification:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "590CB046-392B-4162-97F5-6468AE6CED4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/Controller/LoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "keyboardWillShow(notification:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4418698-AA8D-490F-89D5-75028D3808B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/Controller/LoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "keyboardWillShow(notification:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3004152-BD5D-44B2-8B16-7E61F6AD31A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatTestapp/Controller/LoginController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "keyboardEndShow(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3004152-BD5D-44B2-8B16-7E61F6AD31A0 - 8c52530fe042c78c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.LoginController.keyboardEndShow(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/Controller/LoginController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "B3004152-BD5D-44B2-8B16-7E61F6AD31A0 - 8c52530fe042c78c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatTestapp.LoginController.keyboardEndShow(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "ChatTestapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ChatTestapp/ChatTestapp/Controller/LoginController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ChatTestapp/Pods-ChatTestapp-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CometChatSDK/CometChatSDK.framework/CometChatSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CometChatSDK/CometChatStarscream.framework/CometChatStarscream
